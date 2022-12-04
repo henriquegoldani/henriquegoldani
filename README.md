@@ -5,6 +5,3 @@
 ### Resumo GitHub
 ![Henrique Goldani GitHub](https://github-readme-stats.vercel.app/api?username=henriquegoldani&show_icons=true&theme=clear)
 
-### Tecnologias Utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegoldani)](https://github.com/henriquegoldani/github-readme-stats)
